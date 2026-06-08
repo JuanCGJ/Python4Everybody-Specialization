@@ -1,0 +1,3 @@
+Comando para respuesta Semana2_1 en la tabla de datos SQLITE_Semana2_1
+Comando: SELECT hex(name || age) AS X FROM Ages ORDER BY X
+Respuesta: 4164656E6E3335
